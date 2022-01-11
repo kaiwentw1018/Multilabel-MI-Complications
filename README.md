@@ -17,5 +17,5 @@ Our models achieve the following performances:
 
 ### Shapley Analysis 
 <p align="center">
-<img src="XGBoost/Shapley_Local-Explanation-Summary.png" width="500">
+<img src="Results/LethalOutcomeShap.png" width="500">
 </p>
