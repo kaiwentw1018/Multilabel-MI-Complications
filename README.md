@@ -15,6 +15,19 @@ This [notebook]() documents how the dataset was processed as delineated in the p
 * Outcome label space reconstruction
 
 ## Training
+The following multi-label models were trained and the results evaluated:  
+* Neural Network (NN)
+* Random k-labelsets (RAKEL): RakelD, RakelO
+* Multi-Label Support Vector Machines (MLTSVM)
+* Label powerset (LP)
+* Majority voting (MV)
+* Binary relevance k-nearest neighbor (BRkNN): BRkNNa, BRkNNb
+* Binary relevance (BR)
+* Classifier chains (CC)
+* Multi-label k-Nearest Neighbours (MlkNN)
+* Multi-output classifier (MOC)
+* Multi-label fuzzy adaptive resonance associative map (MLARAM)
+* Label space partition ensemble classifier (LSPEC)
 
 
 ## Results
