@@ -25,7 +25,7 @@ The following multi-label models were trained and the results evaluated:
 * Binary relevance (BR)
 * Classifier chains (CC)
 * Multi-label k-Nearest Neighbours (MlkNN)
-* Multi-output classifier (MOC)
+* Multi-output classifier [(MOC)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/MOC.ipynb)
 * Multi-label fuzzy adaptive resonance associative map (MLARAM)
 * Label space partition ensemble classifier (LSPEC)
 
