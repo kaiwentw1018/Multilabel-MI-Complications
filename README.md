@@ -19,7 +19,7 @@ The following multi-label models were trained and the results evaluated:
 * Neural Network (NN)
 * Random k-labelsets (RAKEL): RakelD, RakelO
 * Multi-Label Support Vector Machines (MLTSVM)
-* Label powerset (LP)
+* Label powerset [(LP)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/LP.ipynb)
 * Majority voting (MV)
 * Binary relevance k-nearest neighbor (BRkNN): BRkNNa, BRkNNb
 * Binary relevance (BR)
