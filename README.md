@@ -2,7 +2,12 @@
 This repository is the official implementation of [Multi-label Neural Model for Prediction of Myocardial Infarction Complications with Resampling and Explainability]. 
 
 ## Data Processing
-To process the dataset as it is done in the paper (with robust scaling and SMOTE), run this [notebook](https://github.com/lujainibrahim/ecg-view-machine-learning/blob/master/data%20processing/data_processing.ipynb).
+This [notebook]() documents how the dataset was processed as delineated in the paper, which incudes the following sections: 
+* Remove features with significant missingness (>25%)
+* Feature selection
+* Data imputation (with MICE, PMM, Mean/Mode, regression, kNN and evaluated with NRMSE)
+* Splitting the dataset into test/train subsets
+* Outcome label space reconstruction
 
 ## Training
 
