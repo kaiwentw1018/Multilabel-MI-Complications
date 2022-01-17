@@ -7,9 +7,11 @@ The figure below shows the pipeline system that summarizes the whole predictive 
 </p>
 
 ## Data Processing
-The 2 notebooks ([link](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Preprocessing/Data_Preprocessing_1.ipynb)) documents how the dataset was processed as delineated in the paper, which incudes the following sections: 
+The 2 notebooks document how the dataset was processed as delineated in the paper: 
+[**Data_Preprocessing_1**](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Preprocessing/Data_Preprocessing_1.ipynb) includes the following section: 
 * Remove features with significant missingness (>25%)
 * Feature selection
+[**Data_Preprocessing_2**](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Preprocessing/Data_Preprocessing_2.ipynb) includes the following section: 
 * Data imputation (with MICE, PMM, Mean/Mode, regression, kNN and evaluated with NRMSE)
 * Splitting the dataset into test/train subsets
 * Outcome label space reconstruction
