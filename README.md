@@ -18,13 +18,13 @@ The 2 notebooks document how the dataset was processed as delineated in the pape
 
 ## Training
 The following multi-label models were trained and the results evaluated:  
-* Neural Network (NN)
-* Random k-labelsets (RAKEL): RakelD, RakelO
-* Multi-Label Support Vector Machines (MLTSVM)
+* Neural network (NN)
+* Random k-labelsets [(RAKEL)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/RAKEL.ipynb): RakelD, RakelO
+* Multi-label support vector machines [(MLTSVM)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/MLTSVM.ipynb)
 * Label powerset [(LP)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/LP.ipynb)
 * Majority voting [(MV)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/MV.ipynb)
-* Binary relevance k-nearest neighbor (BRkNN): BRkNNa, BRkNNb
-* Binary relevance (BR)
+* Binary relevance k-nearest neighbor [(BRkNN)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/BRkNN.ipynb): BRkNNa, BRkNNb
+* Binary relevance [(BR)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/BR.ipynb)
 * Classifier chains [(CC)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/CC.ipynb)
 * Multi-label k-Nearest Neighbours [(MlkNN)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/MlkNN.ipynb)
 * Multi-output classifier [(MOC)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/MOC.ipynb)
