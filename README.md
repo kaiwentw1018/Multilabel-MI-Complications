@@ -26,7 +26,7 @@ The following multi-label models were trained and the results evaluated:
 * Binary relevance k-nearest neighbor (BRkNN): BRkNNa, BRkNNb
 * Binary relevance (BR)
 * Classifier chains [(CC)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/CC.ipynb)
-* Multi-label k-Nearest Neighbours (MlkNN)
+* Multi-label k-Nearest Neighbours [(MlkNN)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/MlkNN.ipynb)
 * Multi-output classifier [(MOC)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/MOC.ipynb)
 * Multi-label fuzzy adaptive resonance associative map [(MLARAM)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/MLARAM.ipynb)
 * Label space partition ensemble classifier [(LSPEC)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/LSPEC.ipynb)
