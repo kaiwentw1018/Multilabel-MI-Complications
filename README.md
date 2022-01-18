@@ -1,5 +1,5 @@
 # Multi-label Neural Model for Prediction of Myocardial Infarction Complications with Resampling and Explainability
-This repository is the official implementation of Multi-label Neural Model for Prediction of Myocardial Infarction Complications with Resampling and Explainability. The dataset used in this project is [xxx], and can be accessed [here](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Myocardial_infarction_complications_Database.csv). 
+This repository is the official implementation of Multi-label Neural Model for Prediction of Myocardial Infarction Complications with Resampling and Explainability. The dataset used in this project can be accessed [here](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Myocardial_infarction_complications_Database.csv). 
 
 The figure below shows the pipeline system that summarizes the whole predictive modeling process: 
 <p align="center">
