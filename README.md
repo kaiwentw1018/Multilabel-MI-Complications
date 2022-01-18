@@ -25,7 +25,7 @@ The following multi-label models were trained and the results evaluated:
 * Majority voting [(MV)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/MV.ipynb)
 * Binary relevance k-nearest neighbor (BRkNN): BRkNNa, BRkNNb
 * Binary relevance (BR)
-* Classifier chains (CC)
+* Classifier chains [(CC)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/CC.ipynb)
 * Multi-label k-Nearest Neighbours (MlkNN)
 * Multi-output classifier [(MOC)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/MOC.ipynb)
 * Multi-label fuzzy adaptive resonance associative map [(MLARAM)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/MLARAM.ipynb)
