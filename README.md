@@ -1,5 +1,5 @@
 # Multi-label Neural Model for Prediction of Myocardial Infarction Complications with Resampling and Explainability
-This repository is the official implementation of Multi-label Neural Model for Prediction of Myocardial Infarction Complications with Resampling and Explainability. The dataset used in this project can be accessed [here](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Myocardial_infarction_complications_Database.csv). 
+This repository is the official implementation of Multi-label Neural Model for Prediction of Myocardial Infarction Complications with Resampling and Explainability. The dataset used in this project can be accessed [here](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Preprocessing/Myocardial_infarction_complications_Database.csv). 
 
 The figure below shows the pipeline system that summarizes the whole predictive modeling process: 
 <p align="center">
@@ -18,7 +18,7 @@ The 2 notebooks document how the dataset was processed as delineated in the pape
 
 ## Training
 The following multi-label models were trained and the results evaluated:  
-* Neural network [(NN)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/NN.ipynb) (The trained NN model is saved [here](https://github.com/kaiwentw1018/Multilabel-MI-Complications/tree/main/Saved%20Model_NN))
+* Neural network [(NN)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/NN.ipynb) (The trained NN model is saved [here](https://github.com/kaiwentw1018/Multilabel-MI-Complications/tree/main/Training/Saved%20Model_NN))
 * Random k-labelsets [(RAKEL)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/RAKEL.ipynb): RakelD, RakelO
 * Multi-label support vector machines [(MLTSVM)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/MLTSVM.ipynb)
 * Label powerset [(LP)](https://github.com/kaiwentw1018/Multilabel-MI-Complications/blob/main/Training/LP.ipynb)
